@@ -1,0 +1,10 @@
+build/
+bin/
+*.o
+*.a
+*.so
+stegoscope_export.png
+.cache/
+compile_commands.json
+.vscode/
+.idea/
