@@ -2,9 +2,7 @@
 
 A desktop forensic analysis utility and cryptographic visualizer implemented in modern C++20 using Dear ImGui and OpenGL 3.3 Core Profile.
 
-Designed for reverse engineers, digital forensics analysts, and CTF participants to analyze image payloads, detect anomalies via information density mapping, and inspect cryptographic transformations in real time.
-
-![StegoScope Interface](assets/preview.png)
+Designed for reverse engineers, digital forensics analysts, and CTF participants to analyze image payloads, detect anomalies via information density mapping, and inspect cryptographic transformations in real time
 
 ## Core Capabilities
 
@@ -130,4 +128,4 @@ export GLFW_PLATFORM=x11
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.://github.com/Dictor457).
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
