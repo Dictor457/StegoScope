@@ -8,3 +8,4 @@ stegoscope_export.png
 compile_commands.json
 .vscode/
 .idea/
+imgui.ini
